@@ -1,0 +1,211 @@
+[
+  {
+    "id": "3bd0b80c-ae55-4986-a3be-9d2ea5fad1a2",
+    "source": "gmail",
+    "sender": "AWS Billing",
+    "sender_role": "system",
+    "subject": "Your AWS bill is ready for June 2026",
+    "body": "Your AWS account (ID: 123456789) has been charged $847.32 for services used in June 2026. Your next bill is due on July 1. Log in to AWS console to view the detailed breakdown. Unusual spike detected in EC2 usage \u2014 review recommended.",
+    "timestamp": "2026-04-17T19:29:50.956483",
+    "channel": null,
+    "category": "Urgent/Action Required",
+    "urgency_score": 10,
+    "tldr": "Urgent message from AWS Billing requiring immediate attention.",
+    "tags": [
+      "urgent",
+      "system",
+      "gmail"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "9b818e6b-2a13-414e-a588-7080dd43f80e",
+    "source": "slack",
+    "sender": "Dev Bot",
+    "sender_role": "system",
+    "subject": "CI/CD Pipeline Failed",
+    "body": "Build #4821 FAILED on branch `main`. Tests failed: 3/47. Error in `test_auth_middleware`. Deployment to staging has been halted. Review logs at: ci.company.com/4821",
+    "timestamp": "2026-04-17T20:59:50.956483",
+    "channel": "#ci-cd",
+    "category": "Urgent/Action Required",
+    "urgency_score": 10,
+    "tldr": "Urgent message from Dev Bot requiring immediate attention.",
+    "tags": [
+      "urgent",
+      "system",
+      "slack"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "3bb7ebc7-4d58-44f3-adf0-610f7193e313",
+    "source": "gmail",
+    "sender": "Prof. Ananya Sharma",
+    "sender_role": "professor",
+    "subject": "URGENT: Final Project Submission Deadline Changed",
+    "body": "Dear students, please note that the final project deadline has been moved to TOMORROW at 11:59 PM due to system maintenance. Failure to submit will result in a zero grade. Please ensure all components are uploaded to the portal before midnight. Contact me immediately if you face any issues. This is non-negotiable.",
+    "timestamp": "2026-04-17T21:14:50.956483",
+    "channel": null,
+    "category": "Urgent/Action Required",
+    "urgency_score": 9,
+    "tldr": "Urgent message from Prof. Ananya Sharma requiring immediate attention.",
+    "tags": [
+      "urgent",
+      "professor",
+      "gmail"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "6dbb6df0-32ea-4a38-b9b0-ca1798c435fb",
+    "source": "gmail",
+    "sender": "Rajan Mehta (Manager)",
+    "sender_role": "manager",
+    "subject": "Q2 Performance Review \u2014 Action Required by EOD",
+    "body": "Hi team, please complete your self-assessment for the Q2 performance review on the HR portal by end of day today. Your manager's review is blocked until you submit. Also, we have a mandatory all-hands tomorrow at 10 AM. Attendance is compulsory. Please confirm receipt of this email.",
+    "timestamp": "2026-04-17T20:29:50.956483",
+    "channel": null,
+    "category": "Urgent/Action Required",
+    "urgency_score": 8,
+    "tldr": "Urgent message from Rajan Mehta (Manager) requiring immediate attention.",
+    "tags": [
+      "urgent",
+      "manager",
+      "gmail"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "b3245ba7-b0fc-49f4-9689-bf718bf1074b",
+    "source": "slack",
+    "sender": "Sarah (CTO)",
+    "sender_role": "manager",
+    "subject": "Production server is DOWN",
+    "body": "@channel ALERT: The production API is returning 500 errors. Users are affected. We need all backend engineers on a call NOW. Join the incident bridge immediately: zoom.us/j/incident-2026. This is P0. Drop everything.",
+    "timestamp": "2026-04-17T21:24:50.956483",
+    "channel": "#incidents",
+    "category": "Urgent/Action Required",
+    "urgency_score": 7,
+    "tldr": "Urgent message from Sarah (CTO) requiring immediate attention.",
+    "tags": [
+      "urgent",
+      "manager",
+      "slack"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "2cc2e233-291a-483c-9297-fa219314af36",
+    "source": "gmail",
+    "sender": "Priya Nair",
+    "sender_role": "colleague",
+    "subject": "Lunch plans for Friday?",
+    "body": "Hey! A few of us are thinking of going to the new ramen place this Friday around 1 PM. Are you in? Let me know by Thursday so I can make the reservation. No pressure!",
+    "timestamp": "2026-04-17T16:29:50.956483",
+    "channel": null,
+    "category": "Informational",
+    "urgency_score": 6,
+    "tldr": "General update from Priya Nair. Review when available.",
+    "tags": [
+      "informational",
+      "colleague",
+      "gmail"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "a409f2f1-9432-41d3-b106-15a1c5aeb693",
+    "source": "slack",
+    "sender": "Arjun Dev",
+    "sender_role": "colleague",
+    "subject": "Great work on the hackathon demo!",
+    "body": "Just wanted to say the NexusFlow demo yesterday was absolutely \ud83d\udd25. Really impressed with the AI triage feature. Let's sync next week to discuss turning this into a real product. Well done team!",
+    "timestamp": "2026-04-17T19:29:50.956483",
+    "channel": "#general",
+    "category": "Informational",
+    "urgency_score": 6,
+    "tldr": "General update from Arjun Dev. Review when available.",
+    "tags": [
+      "informational",
+      "colleague",
+      "slack"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "7d69f2e8-4a5d-43ac-baaf-632af416d498",
+    "source": "slack",
+    "sender": "HR Bot",
+    "sender_role": "system",
+    "subject": "Reminder: Submit timesheet by 5 PM",
+    "body": "Friendly reminder: Please submit your timesheet for this week by 5:00 PM today. You can do so at hr.company.com/timesheet. Managers: please approve pending submissions by 6 PM.",
+    "timestamp": "2026-04-17T17:29:50.956483",
+    "channel": "#hr-announcements",
+    "category": "Informational",
+    "urgency_score": 4,
+    "tldr": "General update from HR Bot. Review when available.",
+    "tags": [
+      "informational",
+      "system",
+      "slack"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "8309fa12-3f03-4680-99a9-4fb79bf7e1ae",
+    "source": "gmail",
+    "sender": "deals@amazon.com",
+    "sender_role": "newsletter",
+    "subject": "\ud83d\udd25 Flash Sale: 70% off Electronics \u2014 Today Only!",
+    "body": "Don't miss out! Our biggest sale of the year is here. Shop now for deals on laptops, phones, headphones, and more. Sale ends tonight at midnight. Click here to browse deals. Terms and conditions apply.",
+    "timestamp": "2026-04-17T15:29:50.956483",
+    "channel": null,
+    "category": "Ignore/Newsletter",
+    "urgency_score": 2,
+    "tldr": "Promotional/newsletter content from deals@amazon.com. Safe to ignore.",
+    "tags": [
+      "newsletter",
+      "promotional",
+      "gmail"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "1161ba2b-1c31-430e-9abc-862aed018737",
+    "source": "gmail",
+    "sender": "noreply@medium.com",
+    "sender_role": "newsletter",
+    "subject": "Your Weekly Reading List: 10 Stories You'll Love",
+    "body": "Good morning! Here are your personalized articles for this week: 1. The Future of AI in 2026, 2. How to Build a Second Brain, 3. Top 10 Productivity Hacks, 4. Why Python is Still King... Read now at medium.com. Unsubscribe at any time.",
+    "timestamp": "2026-04-17T18:29:50.956483",
+    "channel": null,
+    "category": "Ignore/Newsletter",
+    "urgency_score": 1,
+    "tldr": "Promotional/newsletter content from noreply@medium.com. Safe to ignore.",
+    "tags": [
+      "newsletter",
+      "promotional",
+      "gmail"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  },
+  {
+    "id": "3703391e-6fcd-4872-8c17-4256a052fbb7",
+    "source": "slack",
+    "sender": "Newsletter Bot",
+    "sender_role": "newsletter",
+    "subject": "Tech digest: What's new in AI this week",
+    "body": "This week in tech: OpenAI releases GPT-5, Google counters with Gemini Ultra 2, Meta open-sources a new coding model. Plus: tips for staying productive while WFH. Read the full digest at techdigest.io",
+    "timestamp": "2026-04-17T13:29:50.956483",
+    "channel": "#random",
+    "category": "Ignore/Newsletter",
+    "urgency_score": 1,
+    "tldr": "Promotional/newsletter content from Newsletter Bot. Safe to ignore.",
+    "tags": [
+      "newsletter",
+      "promotional",
+      "slack"
+    ],
+    "processed_at": "2026-04-17T21:29:50.956483"
+  }
+]
